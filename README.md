@@ -263,4 +263,4 @@ Possible extensions include:
 
 # Author
 Bilgah Johnson  
-B.E. Computer Science Graduate | MSc Data Science Student
+B.E. Computer Science Graduate | MSc Data Science 
